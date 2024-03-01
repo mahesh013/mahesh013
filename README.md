@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mahesh kandekar</h1>
-<h3 align="center">Data Analyst</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh013&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh013" /> </p>
 
